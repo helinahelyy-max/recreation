@@ -1,0 +1,5 @@
+{
+  "name": "Recreation",
+  "description": "An AI-powered tool to seamlessly merge two images into a single, realistic photograph. Use the subject from one image and the background from another, with options for custom lighting and style adjustments.",
+  "requestFramePermissions": []
+}
